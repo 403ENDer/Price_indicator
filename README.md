@@ -1,5 +1,3 @@
-Great job on creating a Discord bot for daily price reminders on Flipkart! Below is a README template that you can use to provide information about your Discord bot:
-
 ---
 
 # Flipkart Price Reminder Discord Bot
